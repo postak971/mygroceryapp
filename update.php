@@ -38,7 +38,7 @@
         <?php
 
         } else {
-            echo "<h3> There was a problem.:-(</h3>";
+            echo "<h3> There is a problem.:-(</h3>";
         }
         ?>
         <div class="dots-above-menu">
